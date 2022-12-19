@@ -25,7 +25,7 @@ Coustomized curated list of Vision and Language works
 |CLIP Itself is a Strong Fine-tuner: Achieving 85.7% and 88.0% Top-1 Accuracy with ViT-B and ViT-L on ImageNet| [Paper](arxiv.org/abs/2212.06138)| - |
 
 
-## miscellaneous but Interesting!
+## Miscellaneous but Interesting!
 |Name | Paper | Code |
 | ----------- | ----------- | ----------- |
 |ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding |[paper](arxiv.org/abs/2212.05171)|[page](tycho-xue.github.io/ULIP/)|
