@@ -17,6 +17,7 @@ Coustomized curated list of Vision and Language works
 | Name      | Paper |   Code  |
 | ----------- | ----------- | ----------- |
 |REVEAL: Retrieval-Augmented Visual-Language Pre-Training with Multi-Source Multimodal Knowledge Memory |[paper](arxiv.org/abs/2212.05221)|-|
+|Noise-aware Learning from Web-crawled Image-Text Data for Image Captioning | [paper](https://arxiv.org/abs/2212.13563)|[code](https://github.com/kakaobrain/noc) |
 
 ## Constrative Image-Language Pretraining (CLIP)
 
@@ -30,4 +31,5 @@ Coustomized curated list of Vision and Language works
 | ----------- | ----------- | ----------- |
 |ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding |[paper](arxiv.org/abs/2212.05171)|[page](tycho-xue.github.io/ULIP/)|
 |Do DALL-E and Flamingo Understand Each Other? | [paper](https://arxiv.org/abs/2212.12249)| - |
+|GPT Takes the Bar Exam | [paper](https://arxiv.org/abs/2212.14402)| [code](https://github.com/mjbommar/gpt-takes-the-bar-exam) | 
 
