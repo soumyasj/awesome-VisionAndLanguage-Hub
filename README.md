@@ -29,4 +29,5 @@ Coustomized curated list of Vision and Language works
 |Name | Paper | Code |
 | ----------- | ----------- | ----------- |
 |ULIP: Learning Unified Representation of Language, Image and Point Cloud for 3D Understanding |[paper](arxiv.org/abs/2212.05171)|[page](tycho-xue.github.io/ULIP/)|
+|Do DALL-E and Flamingo Understand Each Other? | [paper](https://arxiv.org/abs/2212.12249)| - |
 
